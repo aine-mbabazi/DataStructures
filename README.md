@@ -19,6 +19,9 @@ The priority queue is where the is where entries are kept sorted and one with th
 The last in first out queue is where the last elements added tothe collection are the first to be retrieved.
 Advantage of queues is that they are flexible while on main disadvantage is that they are not readily searchable because they  take  o(N) time to search.
 
+##Tower of Hanoi
+ tower of hanoi is a game implementation of stacks. In this game, there is a diamond needle and gold discs. The gold discs are put on the needle one by one with the largest at the bottom. A gamer cannot carry more than one disc and a bigger disc can not be on top of the small one. 
+
 
 
 
